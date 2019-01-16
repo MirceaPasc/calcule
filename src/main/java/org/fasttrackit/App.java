@@ -14,7 +14,7 @@ public class App
 
 
         Calculations.calculate(127,327);
-        Calculations.calculate1(32,12);
+        Calculations.calculate1(32.2,12.3);
 
 
 
